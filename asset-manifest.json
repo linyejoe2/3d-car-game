@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3d-car-game/static/css/main.2d443f84.css",
+    "main.js": "/3d-car-game/static/js/main.f3f11578.js",
+    "index.html": "/3d-car-game/index.html",
+    "main.2d443f84.css.map": "/3d-car-game/static/css/main.2d443f84.css.map",
+    "main.f3f11578.js.map": "/3d-car-game/static/js/main.f3f11578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d443f84.css",
+    "static/js/main.f3f11578.js"
+  ]
+}
